@@ -2,7 +2,7 @@ cask "ginkassistant" do
   version "0.1.0"
   sha256 "0cf87c41a6583010c242c053958951cb5c4cb1e91d1204d9cec8924024f4a66c"
 
-  url "https://github.com/Amgib00/GinkAssistant/releases/download/v#{version}/Gink%20Assistant-#{version}.dmg"
+  url "https://github.com/Amgib00/GinkAssistant/releases/download/v#{version}/GinkAssistant-#{version}.dmg"
   name "Gink Assistant"
   desc "AI-powered media engine and assistant"
   homepage "https://github.com/Amgib00/GinkAssistant"
